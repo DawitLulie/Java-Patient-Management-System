@@ -14,4 +14,3 @@ A simple console-based Patient Management System in Java to manage patient recor
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/JavaPatientManagementSystem.git
-  ```
