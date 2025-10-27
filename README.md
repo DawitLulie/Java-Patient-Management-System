@@ -14,3 +14,15 @@ A simple console-based Patient Management System in Java to manage patient recor
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/JavaPatientManagementSystem.git
+
+2. Open in your favorite IDE (IntelliJ IDEA, Eclipse, VS Code)
+
+3.Compile and run MainMenu.java
+
+## Future Improvements
+
+Update patient details
+
+Save patients to a file or database
+
+Add appointment and billing functionality
