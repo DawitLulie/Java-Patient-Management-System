@@ -11,7 +11,7 @@ This project demonstrates:
 
 ---
 
-## Features
+# Features
 - ✅ Add new books automatically when created  
 - ✅ Check out and return books  
 - ✅ Keep track of total books currently checked out  
